@@ -1,2 +1,2 @@
-# budget_app
+# Budget App
 Learning to develop a budget web app
